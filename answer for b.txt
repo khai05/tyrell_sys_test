@@ -1,0 +1,6 @@
+1 - only select column(s) that are to be used in the query
+2 - only join necessary table
+3 - only use column and table alias when necessary
+4 - use parentheses when necessary
+5 - for joining two tables that are not directly related, use parentheses and inner join to join the tables with another table in between them
+6 - use inner join where possible so that only matched result will be produced
